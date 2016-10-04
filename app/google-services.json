@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "903557463354",
+    "firebase_url": "https://clean-truth-565.firebaseio.com",
+    "project_id": "clean-truth-565",
+    "storage_bucket": "clean-truth-565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903557463354:android:d22812d3f00ef52a",
+        "android_client_info": {
+          "package_name": "app.estereofonica.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903557463354-mt4c8pv40lqepib01vo14j8tnghj3rr0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "903557463354-udcb1uf0od2h3qcmvheil3jj9789j6sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32JiklAiCT_e1JcVUbcJkfFtt9gLT9lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
